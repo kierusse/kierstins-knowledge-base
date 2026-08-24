@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Pet-Friendly National Parks
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Here you'll find a working repository of all pet-friendly national parks in the USA. Your pets only see as much as you show them!
 
 ## Editing pages
 
