@@ -1,7 +1,7 @@
 ---
 title: Intermountain
 ---
-## The Intermountain index page
+## The Intermountain region index page
 
 ### What is this page?
 

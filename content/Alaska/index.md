@@ -1,7 +1,7 @@
 ---
 title: Alaska
 ---
-## The Alaska index page
+## The Alaska region index page
 
 ### What is this page?
 

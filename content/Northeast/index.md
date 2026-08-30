@@ -1,7 +1,7 @@
 ---
 title: Northeast
 ---
-## The Northeast index page
+## The Northeast region index page
 
 ### What is this page?
 

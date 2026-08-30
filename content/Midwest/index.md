@@ -1,7 +1,7 @@
 ---
 title: Midwest
 ---
-## The Midwest index page
+## The Midwest region index page
 
 ### What is this page?
 

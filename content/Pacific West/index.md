@@ -1,7 +1,7 @@
 ---
 title: Pacific West
 ---
-## The Pacific West index page
+## The Pacific West region index page
 
 ### What is this page?
 

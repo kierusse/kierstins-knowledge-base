@@ -1,7 +1,7 @@
 ---
 title: National Capital
 ---
-## The National Capital index page
+## The National Capital region index page
 
 ### What is this page?
 
