@@ -8,4 +8,4 @@ title: National Capital
 This is an example category index page inside the knowledge base. This page is located within the National Capital folder, which is located within the `content/` folder. 
 
 ## Related Categories
-The National Capital region is connected to the Northeast and Southeast regions by the states of Maryland, Virginia, and West Virginia.
+The National Capital region is connected to the [[Northeast/index|Northeast]] and [[Southeast/index|Southeast]] regions by the states of Maryland, Virginia, and West Virginia.
