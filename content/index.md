@@ -3,7 +3,7 @@ title: Pet-Friendly National Parks
 ---
 ## The index page
 
-Here you'll find a working repository of all pet-friendly national parks in the USA. Your pets only see as much as you show them!
+Here you'll find a working repository of all pet-friendly national parks in the USA organized by region. Your pets only see as much as you show them!
 
 ## Main Categories
 [[Alaska/index|Alaska]]
