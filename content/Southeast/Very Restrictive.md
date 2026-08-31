@@ -4,7 +4,7 @@
 * Tennessee Side - 1.9 miles - Gatlinburg Trail
 * North Carolina Side - 1.5 miles - Oconaluftee River Trail
 
-!(https://www.nps.gov/common/uploads/structured_data/3C80EC37-1DD8-B71B-0B87F63E8B030D15.jpg)
+![](https://www.nps.gov/common/uploads/structured_data/3C80EC37-1DD8-B71B-0B87F63E8B030D15.jpg)
 The image above shows the fog looming in the lush green of the Great Smoky Mountains.
 
 Dogs are mostly prohibited at Great Smoky Mountains National Park in order to protect wildlife. According to the National Park Service, 
