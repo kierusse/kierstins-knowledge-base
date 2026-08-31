@@ -1,16 +1,27 @@
-### This park is mostly dog friendly! Pets are allowed on *ALL* 80+ miles of surface hiking trails, including:
+### This park is incredibly dog friendly! Pets are allowed on almost all 500 miles of hiking paths, including the 101-mile section of the Appalachian Trail.
 
-* Cedar Sink Trail
-* Sloan's Crossing Pond Trail
-* Sand Cave Trail
-#### Pets may not enter caves or visitor buildings at this park.
+#### Prohibited trails include:
+* Old Rag trails
+* Stony Man Trail (blue-blazed portion to summit)
+* Dark Hollow Falls (it is steep and slippery)
+* Bearfence Mountain Trail
+* Limberlost Trail
+* Fox Hollow Trail
+* Story of the Forest Trail (Mile 51)
+* Frazier Discovery Trail
 
-![](https://www.nps.gov/common/uploads/structured_data/9472C6B0-DF25-7F27-BA8D162F34D2CB2F.jpg)
-The image above shows the half-mile Heritage Trail leading to panoramic views of the Green River.
+_This list totals fewer than 20 miles of the 500+ miles of trails in the Shenandoah National Park!_
+
+These restrictions are put in place due to dangerous rock scrambles, cliff edges, or sensitive wildlife habitats.
+#### Dogs must be on a 6 foot or shorter leash *at all times.
+
+![](https://www.nps.gov/common/uploads/structured_data/5C633E7B-0466-D046-D0B390FB1771B48C.jpg?maxWidth=1200&maxHeight=800&quality=78&format=webp)
+The image above shows Rose River Falls in Shenandoah's backcountry. This is a refreshing swimming hole with great photo opportunities!
+
+Pets are allowed in campgrounds and pet-friendly lodging is available.
 
 **According to the National Park Service, 
 
-> "Rolling hills, deep river valleys, and the world's longest known cave system. Mammoth Cave National Park is home to thousands of years of human history and a rich diversity of plant and animal life, earning it the title of UNESCO World Heritage Site and International Biosphere Region."
+> "Just 75 miles from the bustle of Washington, DC, Shenandoah National Park is a land bursting with cascading waterfalls, spectacular vistas, fields of wildflowers, and quiet wooded hollows. With over 200,000 acres of protected lands that are haven to deer, songbirds, and black bear, there's so much to explore...and your journey begins right here!"
 
-Colorful foliage and cooler temperatures makes fall an excellent time to visit this park!
-#### Follow your trip to Mammoth Cave with [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]] then head north to [[Shenandoah National Park|Shenandoah]]!
+#### Between Shenandoah and [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]], you're sure to get your fix of the Blue Ridge Mountains!
