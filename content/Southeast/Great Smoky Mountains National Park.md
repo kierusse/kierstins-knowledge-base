@@ -1,3 +1,4 @@
+## North Carolina/Tennessee
 #### Dogs are not allowed on the majority of paths in this park. There are two short trails in the entire park that they are allowed on:
 
 * Tennessee Side - 1.9 miles - Gatlinburg Trail

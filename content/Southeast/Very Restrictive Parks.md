@@ -1,3 +1,4 @@
+## Multiple Locations
 ### Virgin Islands National Park
 
 Dogs are prohibited from all swimming beaches in this national park, such as Trunk Bay and Honeymoon Beach. Most trails end at a beach, making a trip with a dog very difficult. A few dirt paths allow leashed pets, including Francis Bay Trail or Drunk Bay Trail.

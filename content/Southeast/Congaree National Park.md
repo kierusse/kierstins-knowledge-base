@@ -1,3 +1,4 @@
+## South Carolina
 ### This park is definitely dog friendly! Pets are allowed on *ALL* trails and boardwalks, including:
 
 * Boardwalk Loop Trail

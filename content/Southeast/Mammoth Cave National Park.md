@@ -1,3 +1,4 @@
+## Kentucky
 ### This park is mostly dog friendly! Pets are allowed on *ALL* 80+ miles of surface hiking trails, including:
 
 * Cedar Sink Trail
