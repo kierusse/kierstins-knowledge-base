@@ -20,10 +20,10 @@ Pacific West
 Intermountain
 Midwest
 Southeast
-* [Congaree National Park]
-* [Great Smoky Mountains National Park]
-* [Mammoth Cave National Park]
-* [Shenandoah National Park]
-* [Very Restrictive Parks]
+* [[Congaree National Park|Congaree National Park]]
+* [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]]
+* [[Mammoth Cave National Park|Mammoth Cave National Park]]
+* [[Shenandoah National Park|Shenandoah National Park]]
+* [[Very Restrictive Parks|Very Restrictive Parks]]
 National Capital
 Northeast
