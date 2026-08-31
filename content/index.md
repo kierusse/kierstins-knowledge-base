@@ -15,15 +15,15 @@ Here you'll find a working repository of all pet-friendly national parks in the 
 [[Northeast/index|Northeast]]
 
 ## Sub Categories
-Alaska
-Pacific West
-Intermountain
-Midwest
-Southeast
-* [[Congaree National Park|Congaree National Park]]
-* [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]]
-* [[Mammoth Cave National Park|Mammoth Cave National Park]]
-* [[Shenandoah National Park|Shenandoah National Park]]
-* [[Very Restrictive Parks|Very Restrictive Parks]]
-National Capital
-Northeast
+* Alaska
+* Pacific West
+* Intermountain
+* Midwest
+* Southeast
+	* [[Congaree National Park|Congaree National Park]]
+	* [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]]
+	* [[Mammoth Cave National Park|Mammoth Cave National Park]]
+	* [[Shenandoah National Park|Shenandoah National Park]]
+	* [[Very Restrictive Parks|Very Restrictive Parks]]
+* National Capital
+* Northeast
