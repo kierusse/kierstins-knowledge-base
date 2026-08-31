@@ -14,13 +14,14 @@ Here you'll find a working repository of all pet-friendly national parks in the 
 [[National Capital/index|National Capital]]
 [[Northeast/index|Northeast]]
 
-## Editing pages
-
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+## Sub Categories
+Alaska
+Pacific West
+Intermountain
+Midwest
+Southeast
+* [Congaree National Park]
+* [Great Smoky Mountains National Park]
+* [Mammoth Cave National Park]
+* [Shenandoah National Park]
+* [Very Restrictive Parks]
