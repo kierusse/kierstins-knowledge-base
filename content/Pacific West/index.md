@@ -6,3 +6,5 @@ title: Pacific West
 ### What is this page?
 
 This is an example category index page inside the knowledge base. This page is located within the Pacific West folder, which is located within the `content/` folder.
+
+Return to the [[index]]

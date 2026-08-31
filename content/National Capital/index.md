@@ -9,3 +9,5 @@ This is an example category index page inside the knowledge base. This page is l
 
 ## Related Categories
 The National Capital region is connected to the [[Northeast/index|Northeast]] and [[Southeast/index|Southeast]] regions by the states of Maryland, Virginia, and West Virginia.
+
+Return to the [[index]]
