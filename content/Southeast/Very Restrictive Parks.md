@@ -21,3 +21,5 @@ Dogs are *mostly prohibited* at Great Smoky Mountains National Park in order to 
 #### To see more pet-friendly trails in the North Carolina area, check out the Blue Ridge Mountains at [[Shenandoah National Park]]!
 
 #### *This is a working list of parks and will be updated on a rolling basis.
+
+Return to [[Southeast/index|Southeast]]

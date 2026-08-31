@@ -14,3 +14,5 @@ The image above shows the Congaree River during Autumn.
 
 Congaree is often compared to Everglades National Park in Florida for its cypress trees and swampy environment.
 #### The closest National Park to Congaree is [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]] across the border in North Carolina and Tennessee.
+
+Return to [[Southeast/index|Southeast]]

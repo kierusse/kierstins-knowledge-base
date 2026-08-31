@@ -11,3 +11,5 @@ Dogs are *mostly prohibited* at Great Smoky Mountains National Park in order to 
 
 > "Ridge upon ridge of forest straddles the border between North Carolina and Tennessee in Great Smoky Mountains National Park. World renowned for its diversity of plant and animal life, the beauty of its ancient mountains, and the quality of its remnants of Southern Appalachian mountain culture, this is America's most visited national park."
 #### To see more pet-friendly trails in the North Carolina area, check out the Blue Ridge Mountains at [[Shenandoah National Park]]!
+
+Return to [[Southeast/index|Southeast]]

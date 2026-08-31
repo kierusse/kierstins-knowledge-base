@@ -15,3 +15,5 @@ The image above shows the half-mile Heritage Trail leading to panoramic views of
 
 Colorful foliage and cooler temperatures makes fall an excellent time to visit this park!
 #### Follow your trip to Mammoth Cave with [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]], then head north to [[Shenandoah National Park|Shenandoah]]!
+
+Return to [[Southeast/index|Southeast]]
