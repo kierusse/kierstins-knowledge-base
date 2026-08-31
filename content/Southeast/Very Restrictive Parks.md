@@ -2,7 +2,7 @@
 #### Dogs are prohibited from all swimming beaches in this national park, such as Trunk Bay and Honeymoon Beach. Most trails end at a beach, making a trip with a dog very difficult. A few dirt paths allow leashed pets, including Francis Bay Trail or Drunk Bay Trail.
 ### Biscayne and Dry Tortugas National Parks
 #### These parks are mostly open water and coral reefs with almost no traditional hiking trails. Pets may only spend time at campgrounds or grassy areas. They are also restricted from boats, ferries, and swimming areas.
-### Great Smoky Mountains National Park
+### [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]]
 #### Dogs are not allowed on nearly all of the paths in this park. There are two short trails in the entire park that they are allowed on:
 
 * Tennessee Side - 1.9 miles - Gatlinburg Trail
