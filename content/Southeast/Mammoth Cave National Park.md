@@ -13,4 +13,4 @@ The image above shows the half-mile Heritage Trail leading to panoramic views of
 > "Rolling hills, deep river valleys, and the world's longest known cave system. Mammoth Cave National Park is home to thousands of years of human history and a rich diversity of plant and animal life, earning it the title of UNESCO World Heritage Site and International Biosphere Region."
 
 Colorful foliage and cooler temperatures makes fall an excellent time to visit this park!
-#### Follow your trip to Mammoth Cave with [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]] then head north to [[Shenandoah National Park|Shenandoah]]!
+#### Follow your trip to Mammoth Cave with [[Great Smoky Mountains National Park|Great Smoky Mountains National Park]], then head north to [[Shenandoah National Park|Shenandoah]]!
